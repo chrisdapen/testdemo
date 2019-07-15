@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://223.71.195.71/mmp-web/ares/appManage/fileDownLoad.do?RES_PATH=20190715141955922.ipa</string>
+					<string>http://oss.pgyer.com/d89dee4d17d64bdd673e6d2c00e7403c.ipa?auth_key=1563187893-e18b8f48019737858b64eb4084fc397f-0-4d7d2ebac7a511dd8cf32b28ffe3485d&amp;response-content-disposition=attachment%3B+filename%3D2.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yitong.cn</string>
+				<string>com.yitong.cn11</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
