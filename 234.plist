@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-
 <plist version="1.0">
-  <dict>
-    <key>items</key>
-    <array>
-      <dict>
-        <key>assets</key>
-        <array>
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>https://223.71.195.71/mmp-web/ares/appManage/fileDownLoad.do?RES_PATH=20190715185237561.ipa</string>
-          </dict>
-        </array>
-        <key>metadata</key>
-        <dict>
-          <key>bundle-identifier</key>
-          <string>com.yitong.cn</string>
-          <key>bundle-version</key>
-          <string>1.0.0</string>
-          <key>kind</key>
-          <string>software</string>
-          <key>title</key>
-          <string>MobileMarketHD</string>
-        </dict>
-      </dict>
-    </array>
-  </dict>
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://oss.pgyer.com/4113a8183b4c85fa7a30044595fd485f.ipa?auth_key=1563231476-066715e8fd47c06519052ccbc7d07c33-0-900a928dcc54dead2e6fecf207ee9caf&amp;response-content-disposition=attachment%3B+filename%3D3.0.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yitong.cn</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>MobileMarketHD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
 </plist>
-
