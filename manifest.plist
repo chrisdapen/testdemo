@@ -13,30 +13,7 @@
 					<key>url</key>
 					<string>https://223.71.195.71/mmp-web/ares/appManage/fileDownLoad.do?RES_PATH=20190715141955922.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://512.png</string>
-				</dict>
 			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.yitong.cn</string>
-				<key>bundle-version</key>
-				<string>1.0.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>MobileMarketHD</string>
-			</dict>
 		</dict>
 	</array>
 </dict>
